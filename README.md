@@ -25,5 +25,15 @@ graph TD;
 3. **Попередній перегляд:** У веб-інтерфейсі GitHub під час редагування файлу натисніть вкладку **"Preview"**, щоб одразу побачити результат.
 
 ---
+```mermaid
+graph TD
+    A[Shockley Semiconductor] -->|Конфлікт менеджменту| B(The Traitorous Eight)
+    B --> C[Fairchild Semiconductor]
+    C --> D[Intel - Noyce & Moore]
+    C --> E[AMD - Jerry Sanders]
+    C --> F[Kleiner Perkins - Венчурний капітал]
+    D --> G[Сучасна ера процесорів]
+    F --> H[Інвестиції в Amazon, Google, Sun]
+```
 
 Яку саме схему ви хочете створити? Якщо ви опишете логіку, я можу написати для вас готовий код, який ви просто скопіюєте в свій GitHub репозиторій.
